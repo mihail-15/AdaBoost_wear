@@ -21,7 +21,7 @@ git clone https://github.com/mihail-15/AdaBoost_wear.git
 
 # Usage
 
-# To use AdaBoost_wear, you need to have the experimental data of time and friction force from pin-on-disk tests for each material and load combination in XLSX files. The files should be stored in the data folder and have the following names: B83_40N.xlsx, B83_50N.xlsx, and B83_60N.xlsx.
+# To use AdaBoost_wear, you need to have the experimental data of time and friction force from pin-on-disk tests for each material and load combination in XLSX files. The files should be stored in the data folder and have the following names: B83_40N_1.xlsx, B83_40N_2.xlsx, B83_40N_3.xlsx, B83_50N_1.xlsx, B83_50N_2.xlsx, B83_50N_3.xlsx,  B83_60N_1.xlsx, B83_60N_2.xlsx, B83_60N_3.xlsx.
 
 # To run AdaBoost_wear, you can execute the main.py script from the command line:
 
