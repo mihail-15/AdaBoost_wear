@@ -27,7 +27,7 @@ git clone https://github.com/mihail-15/AdaBoost_wear.git
 
 python main.py
 
-# The script will read the data files, train and test the AdaBoost model, calculate the performance metrics, and generate the plots. The results will be displayed on the console and saved in the results folder.
+# The script will read the data files, train and test the AdaBoost model, calculate the performance metrics, and generate the plots. The results will be displayed on the console and stored in the results folder.
 
 # License
 
