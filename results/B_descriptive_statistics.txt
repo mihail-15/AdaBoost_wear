@@ -1,0 +1,6 @@
+Descriptive statistics for material B:
+Mean: 0.2236
+Median: 0.2241
+Standard deviation: 0.0232
+Minimum: 0.0228
+Maximum: 0.2572

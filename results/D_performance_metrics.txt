@@ -1,0 +1,10 @@
+Test set performance metrics:
+R2 score: 0.8306
+RMSE: 0.0139
+MSE: 0.0002
+MAE: 0.0037
+Validation set performance metrics:
+R2 score: 0.9497
+RMSE: 0.0069
+MSE: 0.0000
+MAE: 0.0027

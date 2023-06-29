@@ -1,0 +1,6 @@
+Descriptive statistics for material C:
+Mean: 0.2321
+Median: 0.2299
+Standard deviation: 0.0288
+Minimum: 0.0373
+Maximum: 0.2840

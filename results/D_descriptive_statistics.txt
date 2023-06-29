@@ -1,0 +1,6 @@
+Descriptive statistics for material D:
+Mean: 0.2442
+Median: 0.2456
+Standard deviation: 0.0278
+Minimum: 0.0272
+Maximum: 0.2858
